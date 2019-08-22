@@ -1,0 +1,94 @@
+{
+  "title": "any name here",
+  "nav": {
+    "home": "Home",
+    "Our Services": "Our Services",
+    "All medicines": "Medicines List",
+    "Contact Us": "Contact Us",
+    "Shopping": "Shopping",
+    "Sign In": "Sign In",
+    "Sign Out": "Sign Out"
+  },
+  "search": {
+    "Find A Medicine!": "Find A Medicine!",
+    "search": "search",
+    "enter name medicine...": "enter name medicine..."
+  },
+  "home": {
+    "Discover the missing medicine !": "Discover the missing medicine !",
+    "Explain the method of searching for the medicine you want, finding information about it, booking it and the method of payment": "Explain the method of searching for the medicine you want, finding information about it, booking it and the method of payment",
+    "Search a Medicine": "Search a Medicine",
+    "Type the name of the medicine you want to search for in Arabic or English and then click the Search button": "Type the name of the medicine you want to search for in Arabic or English and then click the Search button",
+    "View": "View",
+    "The medicine will show you the picture and information about it available or not and the price": "The medicine will show you the picture and information about it available or not and the price",
+    "Book a Medicine": "Book a Medicine",
+    "Then book the medicine and the pharmacy will communicate with you and pay the money when you receive the drug and make sure it": "Then book the medicine and the pharmacy will communicate with you and pay the money when you receive the drug and make sure it",
+    "Information on Medicines?!": "Information on Medicines?!",
+    "Information": "Information about what is between the medicine Originator / Brand-name Medicine and Generic Medicine ",
+    "Originator / Brand-name Medicine": "Originator / Brand-name Medicine",
+    "It is the innovator medicine created by a drug commpany after acostly procedure of development and research and the company holds the marketing rights for a specific period (patent)": "It is the innovator medicine created by a drug commpany after acostly procedure of development and research and the company holds the marketing rights for a specific period (patent)",
+    "Generic Medicine": "Generic Medicine",
+    "other": "Other companies are allowed to produce the medicine under different trade names, after the legal protection period (17 - 20 years).Usually have lower prices because the manufacturing company did not incur any research costs.",
+    "find a medicine": "find a medicine",
+    "Our Services": "Our Services",
+    "Pressure gauge": "Pressure gauge",
+    "perssure": "The pharmacy has the best pressure gauges and provides this service for delivery to the home",
+    "Measuring sugar": "Measuring sugar",
+    "sugar": "The pharmacy provides a sugar meter service with the latest precision equipment you can request for this service",
+    "Change the wounds": "Change the wounds",
+    "Change": "The pharmacy provided a change service on wounds that can be ordered to the home if it is not possible to get to the pharmacy",
+    "Installation of medications": "Installation of medications",
+    "Installation": "The pharmacy has a sterile laboratory for the installation of medicines and this is in accordance with the availability of his doctorate from the doctor",
+    "Inbody": "Inbody",
+    "body": "The pharmacy has an inbody device to measure weight, height, body fat, muscle mass, heartbeat, and body burning speed.",
+    "Delivery": "Delivery",
+    "delivery": "There is a 24-hour delivery service"
+  },
+  "medicine": {
+  "Add New Medicine": "Add New Medicine",
+  "list medicine": "list medicine",
+  "Edit": "Edit",
+  "Add to Cart": "Add to Cart",
+  "Quantity": "Quantity",
+  "Price": "Price",
+  "Medicine Title": "Medicine Title",
+  "Add Medicine": "Add Medicine"
+  },
+  "contact": {
+    "Contact Information": "Contact Information",
+    "Address": "Address",
+    "50St": "50st***********",
+    "Phone": "Phone",
+    "HOTLINE": "HOTLINE",
+    "19***": "19***",
+    "Email": "Email"
+  },
+  "shopping": {
+    "Delete": "Delete",
+    "Delete from Cart": "Delete from Cart"
+  },
+  "signin": {
+    "Sign In": "Sign In",
+    "Email address": "Email address",
+    "Password": "Password",
+    "Sign": "Sign in",
+    "Forgot Password": "Forgot Password?",
+    "Sign Up": "Sign Up",
+    "Sign in with Google": "Sign in with Google",
+    "Sign in with Facebook": "Sign in with Facebook"
+  },
+  "signup": {
+    "Full Name": "Full Name",
+    "name": "Full Name",
+    "Phone Number": "Phone Number",
+    "number": "Phone Number",
+    "E-mail": "E-mail",
+    "email": "E-mail",
+    "Password": "Password",
+    "password": "Password",
+    "Address": "Address",
+    "address": "Address",
+    "submit": "submit"
+  }
+}
+

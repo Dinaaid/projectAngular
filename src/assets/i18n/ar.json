@@ -1,0 +1,93 @@
+{
+  "title": "بثبث",
+  "nav": {
+    "home": "الصفحه الرئيسيه",
+    "Our Services": "خدمات اخرى",
+    "All medicines": "الادوية",
+    "Contact Us": "اتصل بنا",
+    "Shopping": "عربة التسوق",
+    "Sign In": "تسجيل الدخول ",
+    "Sign Out": "تسجيل الخروج"
+  },
+  "search": {
+    "Find A Medicine!": "ابحث عن الدواء",
+    "search": "بحث",
+    "enter name medicine...": "ادخل اسم الدواء"
+  },
+  "home": {
+    "Discover the missing medicine !": "!كيفية البحث عن الدواء",
+    "Explain the method of searching for the medicine you want, finding information about it, booking it and the method of payment": "شرح طريقة استخدام الموقع فى البحث عن الادوية وظهور معلومات حول الدواء المطلوب وطرية حجزها",
+    "Search a Medicine": "ابحث عن الدواء ",
+    "Type the name of the medicine you want to search for in Arabic or English and then click the Search button": "ادخل اسم الدواء الذى تريد البحث عنه ثم اضغط زر البحث لتظهر النتائج ",
+    "View": "اطلع",
+    "The medicine will show you the picture and information about it available or not and the price": "سوف يظهر لك معلومات عن الدواء صورة الدواء و سعر الدواء ومدى توافر الدواء متاح ام لا ",
+    "Book a Medicine": "احجز الدواء",
+    "Then book the medicine and the pharmacy will communicate with you and pay the money when you receive the drug and make sure it": "قم بعد ذلك بحجز الدواء عن طريق الضغط على زر لضلفه الى عربة التسوق وستتواصل الصيدليه معك لتوصيل الدواء اليك والدفع عند استلام الدواء",
+    "Information on Medicines?!": "معلومات عن الادوية!؟",
+    "find a medicine": "ابحث عن الدواء",
+    "Information": "(معلومات حول  الفرق بين الدواء الاصلى والدواء المثيل (الجنيس ",
+    "Originator / Brand-name Medicine": "الدواء الاصلى ",
+    "It is the innovator medicine created by a drug commpany after acostly procedure of development and research and the company holds the marketing rights for a specific period (patent)": "(أنه الدواء المبتكر الذي تم إنشاؤه بواسطة شركة الدواء بعد إجراء عملية تطوير وبحوث متقن وتحتفظ الشركة بحقوق التسويق لفترة محددة (براءة اختراع",
+    "Generic Medicine": "(الدواء المثيل (الجنيس",
+    "other": "يسمح للشركات الأخرى بإنتاج الدواء بأسماء تجارية مختلفة ، بعد فترة الحماية القانونية (17 - 20 سنة).عادة ما تكون الأسعار منخفضة لأن الشركة المصنعة لم تتحمل أي تكاليف بحثية.",
+    "Our Services": "خدمات اخرى",
+    "Pressure gauge": "قياس الضغط",
+    "perssure": "يوجد لدى الصيدليه افضل اجهزة قياس الضغط وتوفر هذه الخدمة لتوصيلها الى المنزل",
+    "Measuring sugar": "قياس السكر",
+    "sugar": "توفر الصيدليه خدمة قياس السكر باحدث الاجهزه الدقيقه يمكنك طلب هذه الخدمه الى المنزل",
+    "Change the wounds": "التغيرعلى الجروح",
+    "Change": "وفر الصيدليه خدمة التغيير على الجروح يمكن طلبها الى المنزل فى حالة عدم المقدرة على النزول الى الصيدليه",
+    "Installation of medications": "تركيب الادويه",
+    "Installation": "يتوفر لدى الصيدليه معمل معقم لتركيب الادويه وهذا طبقا لتوافر روجيته من الدكتور المعالج ",
+    "Inbody": "ما فى الجسم",
+    "body": " لقياس الوزن والطول ونسبة الدهون فى الجسم والكتله العضليه فى الجسم ونبضات القلب وسرعة الحرق فى الجسم (inbody)يتوفر لدى الصيدليه جهاز",
+    "Delivery": "التوصيل",
+    "delivery": "يوجد خدمة توصيل خلال 24 ساعه"
+  },
+  "medicine": {
+  "Add New Medicine": "اضف دواء جديد",
+  "list medicine": "قائمة الادويه",
+  "Edit": "تعديل",
+  "Add to Cart": "اضف الى العربة",
+  "Quantity": "كمية",
+  "Price": "السعر",
+  "Medicine Title": "اسم الدواء",
+  "Add Medicine": "اضف دواء"
+  },
+  "contact": {
+    "Contact Information": "معلومات الاتصال ",
+    "Address": "العنوان",
+    "50St": "***********50شارع",
+    "Phone": "تلفون",
+    "HOTLINE": "الخط الساخن",
+    "19***": "19***",
+    "Email": "البريد الالكترونى "
+  },
+  "shopping": {
+    "Delete": "حذف",
+    "Delete from Cart": "حذف من العربة"
+  },
+  "signin": {
+    "Sign In": "تسجيل الدخول",
+    "Email address": "البريد الالكترونى",
+    "Password": "الرقم السرى ",
+    "Sign": "تسجيل الدخول",
+    "Forgot Password": "هل نسيت كلمة السر؟",
+    "Sign Up": "سجل",
+    "Sign in with Google": "Sign in with Google",
+    "Sign in with Facebook": "Sign in with Facebook"
+  },
+  "signup": {
+    "Full Name": "الاسم كامل",
+    "name": "الاسم كامل",
+    "Phone Number": "رقم التلفون",
+    "number": "رقم التلفون",
+    "E-mail": "البرد الالكترونى",
+    "email": "البريد الالكترونى",
+    "Password": "الرقم السرى",
+    "password": "الرقم السرى",
+    "Address": "العنوان",
+    "address": "العنوان",
+    "submit": "ادخل"
+  }
+}

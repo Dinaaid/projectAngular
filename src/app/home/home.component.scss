@@ -1,0 +1,216 @@
+
+#page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 120px 0px 95px 0px;
+  background-color: #e8f2f8;
+
+}
+
+#page article h2 {
+  font-size: 50px;
+}
+
+#page article p {
+  width: 80%;
+  display: inline-block;
+}
+
+#page .Find,
+.view,
+.bdel {
+  background-color: white;
+  height: 298px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 20px rgba(128, 128, 128, 0.459);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+#page .Find section {
+  text-align: center;
+  background-image: url('../../assets/undraw_file_searching_duff.svg');
+  background-position: center;
+  background-size: cover;
+  margin-top: 20px;
+  width: 120px;
+  height: 120px;
+}
+
+#page .view section {
+  background-image: url('../../assets/icon-home-2.svg');
+  background-position: center;
+  background-size: cover;
+  margin-top: 20px;
+  width: 120px;
+  height: 120px;
+}
+
+#page .bdel section {
+  background-image: url('../../assets/icon-home-3.svg');
+  background-position: center;
+  background-size: cover;
+  margin-top: 20px;
+  width: 120px;
+  height: 120px;
+}
+
+#page .find {
+  width: 100%;
+}
+
+#page input {
+  background-color: #e74e84;
+  color: white;
+  height: 50px;
+  width: 150px;
+  border: 0px;
+  border-radius: 30px;
+  align-self: center;
+  justify-content: center;
+  margin: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  text-shadow: 1px 1px 3px black;
+}
+
+#page input:hover {
+  background-color: #03aa96;
+  font-size: large;
+
+}
+
+#page h3 {
+  color: #e74e84;
+  font-size: x-large;
+  margin-bottom: 5px;
+  text-shadow: 1px 1px 2px black;
+}
+
+#page p {
+  font-size: large;
+  padding: 0px 10px;
+}
+
+.inf {
+  height: 100vh;
+  background-color: none;
+  color: #e8f2f8;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.inf h2 {
+  font-size: 50px;
+}
+
+.inf p {
+  height: auto;
+  font-size: large;
+  font-size-adjust: 0.58;
+}
+
+.badel {
+  height: auto;
+  border: 5px solid #e8f2f8;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.our {
+  height: 150vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../../assets/liste.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.Services {
+  height: 90%;
+  width: 90%;
+  display: flex;
+  /* justify-content: center; */
+  flex-wrap: wrap;
+  background-color: #363768;
+  border-radius: 20px;
+  padding: 25px;
+}
+
+.Services h2 {
+  height: auto;
+  width: 100%;
+  color: #e8f2f8;
+  font-size: 100px;
+  margin: 0px;
+}
+
+.media {
+  height: auto;
+  color: #e8f2f8;
+  text-align: start;
+  text-shadow: 2px 2px 5px black;
+  margin: 10px auto;
+}
+
+h5 {
+  color: #03aa96;
+}
+
+.img1 {
+  width: 100px;
+  height: 100px;
+  background-image: url('../../assets/heart.svg');
+  background-position: center;
+  background-size: cover;
+}
+
+.img2 {
+  width: 100px;
+  height: 100px;
+  background-image: url('../../assets/finger.svg');
+  background-position: center;
+  background-size: cover;
+}
+
+.img3 {
+  width: 100px;
+  height: 100px;
+  background-image: url('../../assets/plaster2.svg');
+  background-position: center;
+  background-size: cover;
+}
+
+.img4 {
+  width: 100px;
+  height: 100px;
+  background-image: url('../../assets/pharmacy.svg');
+  background-position: center;
+  background-size: cover;
+}
+
+.img5 {
+  width: 100px;
+  height: 100px;
+  background-image: url('../../assets/arm.svg');
+  background-position: center;
+  background-size: cover;
+}
+
+.img6 {
+  width: 100px;
+  height: 100px;
+  background-image: url('../../assets/24-hours-delivery.svg');
+  background-position: center;
+  background-size: cover;
+}

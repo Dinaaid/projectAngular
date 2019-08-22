@@ -1,0 +1,10 @@
+<div>
+  <article class="row justify-content-center" >
+    <h1 class="col-sm-12 text-center">{{ 'search.Find A Medicine!' | translate }}</h1>
+    <input #filterX [(ngModel)]="authService.filterX" (keyup)="app.filterGlobal(filterX.value)" type="text" class="col-sm-8 col-md-5" id="filterX" autofocus
+      placeholder=" {{ 'search.enter name medicine...' | translate }}">
+    <input class="search col-sm-3 col-md-2" (click)="app.searchGlobal(filterX)" type="submit" value="{{ 'search.search' | translate }}">
+  </article>
+</div>
+
+<!-- <p>*ngIf="authService.showX"</p> -->
